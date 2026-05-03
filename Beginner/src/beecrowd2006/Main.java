@@ -1,4 +1,4 @@
-package beecrownd2006;
+package beecrowd2006;
 
 import java.io.IOException;
 import java.util.Scanner;
